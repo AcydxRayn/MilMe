@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89302373348",
+    "firebase_url": "https://milme-345c7.firebaseio.com",
+    "project_id": "milme-345c7",
+    "storage_bucket": "milme-345c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89302373348:android:cf3ef7a86b39d5bca12df1",
+        "android_client_info": {
+          "package_name": "com.ks49.milme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89302373348-t2u85umr2t6udueaud7dde948hj6grvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ks49.milme",
+            "certificate_hash": "6d5f6a7ccf3a82b3eb83601170f9512e4ac0a2d1"
+          }
+        },
+        {
+          "client_id": "89302373348-47vi42pmu5e5d8r2lk9n2e2ajrkgfrh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTdAOD-a4Lk27oLQh1059JJ_emFglIXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89302373348-47vi42pmu5e5d8r2lk9n2e2ajrkgfrh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

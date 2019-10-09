@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MilMe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="prompt_failed_to_login">Failed to login. Reason: %1$s</string>
+
+</resources>
